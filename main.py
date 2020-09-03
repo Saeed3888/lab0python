@@ -17,4 +17,4 @@ elif(corf =="C" or corf == "c"):
   fahrenheit = str(fahrenheit)
   print(f'{celsius}° in Celsius is equivalent to {fahrenheit}° Fahrenheit.')
 else:
-     print(f'invalid unit.({corf}).')
+     print(f'Invalid unit.({corf}).')
