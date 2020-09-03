@@ -1,4 +1,6 @@
-
+#Author: Saeed Alyami, ssa5468@psu
+#Collaborator: Vincent Barnes, vjb5182@psu
+#collaaborator: Lucas Yancey, lcy5032@psu,edu
 tempo = input ("Enter temperature: ")
 corf = input ("Enter unit in F/f or C/c: ")
 tempo = float(tempo)
